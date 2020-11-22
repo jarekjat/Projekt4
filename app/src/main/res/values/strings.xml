@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projekt4</string>
+    <string name="relative_layout">relative layout</string>
+    <string name="grid_layout">grid layout</string>
+    <string name="table_layout">table layout</string>
+    <string name="linear_layout">linear layout</string>
+    <string name="frame_layout">frame layout</string>
+</resources>
